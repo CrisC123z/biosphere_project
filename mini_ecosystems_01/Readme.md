@@ -3,6 +3,15 @@
 ## Objective
 To observe how different biological inputs affect small aquatic systems.
 
+## Hypothesis
+Systems C and D are expected to show earlier biological activity 
+due to higher initial microbial load. System B will show gradual 
+changes from decomposition. System A should remain unchanged.
+
+## Sample Origin
+San Miguel, Cañas, Guanacaste, Costa Rica.
+Samples collected from thermal springs and creek.
+
 ## Systems
 A – Control  
 B – Leaf (organic input)  
@@ -15,15 +24,24 @@ D – Thermal water
 - Indirect light conditions
 
 
-## Day 0 Observations  
-Initial conditions show no visible biological activity. All systems are clear, with added materials settled at the bottom.
+## Day 0 Observations
+Initial conditions show no visible biological activity.
 
-| System | Color       | Odor | Notes                |
-|--------|------------|------|----------------------|
-| A      | Transparent | None | -                    |
-| B      | Transparent | None | Leaf at the bottom   |
-| C      | Transparent | None | Biofilm at bottom    |
-| D      | Transparent | None | Particles at bottom  |
+| System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
+|--------|-------|-----------|---------|--------|-------|----------|------|-------|
+| A | Transparent | Clear | None | - | None | - | None | - |
+| B | Transparent | Clear | None | Settled | None | Leaf intact | None | - |
+| C | Transparent | Clear | None | Settled | None | Biofilm intact | None | - |
+| D | Transparent | Clear | None | Particles | None | - | None | - |
+
+## Day 1 Observations
+| System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
+|--------|-------|-----------|---------|--------|-------|----------|------|-------|
+| A | Transparent | Clear | None | - | None | - | None | Condensation |
+| B | Transparent | Clear | None | Settled | None | Leaf intact | None | Condensation |
+| C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
+| D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
 
-
+## Status
+🟢 Active – ongoing daily observations
