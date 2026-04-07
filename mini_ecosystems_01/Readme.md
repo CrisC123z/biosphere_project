@@ -42,6 +42,13 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
 | D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
+## Day 2 Observations
+| System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
+|--------|-------|-----------|---------|--------|-------|----------|------|-------|
+| A | Transparent | Clear | None | - | None | - | None | Condensation |
+| B | Transparent | Clear | None | Settled | None | Leaf intact | None | Condensation |
+| C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
+| D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
 ## Status
 🟢 Active – ongoing daily observations
