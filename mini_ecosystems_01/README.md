@@ -16,7 +16,7 @@ Samples collected from thermal springs and creek.
 A – Control  
 B – Leaf (organic input)  
 C – Biofilm (microbial input)  
-D – Thermal water  
+D – Thermal water + algae
 
 ## Setup
 - Plastic containers
@@ -74,8 +74,79 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | More visible on dark background |
 
+## Day 6 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | More visible on dark background |
+
+## Day 7 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | Brown Biofilm|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | No significant change |
+
+## Day 8 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Green Biofilm intact | None | Biofilm turns from green to brown|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | No significant change |
+
+## Day 9 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
+
+
+## Day 10 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
+
+## Day 11 Observations
+| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
+|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
+| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
+| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
+| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
+| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
+
 ## Preliminary Observations
-By Day 4, a white/translucent surface film appeared in all systems, consistent with microbial biofilm formation at the air-water interface. Systems C and D show greater surface coverage than A and B, supporting the hypothesis that higher initial microbial load accelerates early biological activity. System A (control) also shows film development, indicating residual microbial populations in the source water. System B shows no decomposition signs yet.
+Despite the appearance of surface films across all systems starting on Day 4, no significant progression or system-level transformation has been observed after Day 6.
+
+## Key Patterns
+System A (Control): Developed a thin, localized surface layer with minimal dispersion and low fragmentation. Structure remains stable but limited.
+System B (Leaf Input): Surface film is slightly more extended than A, but no visible decomposition of the leaf has occurred. System remains largely static.
+System C (Biofilm Input): Showed the earliest and most extensive surface formation. A color shift (green → brown) suggests initial biological or chemical transformation, but no continued development was observed.
+System D (Thermal Water + Algae): Displays the most fragmented and heterogeneous surface structure. Material tends to cluster toward the center rather than forming a continuous film.
+
+##Interpretation
+The formation of a white/translucent surface layer across all systems suggests a common process, likely related to suspended organic matter or microbial structuring at the air–water interface.
+However:
+- No increase in turbidity
+- No odor development
+- No visible decomposition (System B)
+- No sustained expansion of surface structures
+This indicates that the surface structure formation does not necessarily correlate with active or sustained biological processes.
+
+##Emerging Hypothesis
+All systems appear to be globally limited, potentially by:
+- nutrient availability
+- oxygen dynamics
+- or insufficient energy input (light exposure)
+As a result, initial structure forms (Day 4–6), but no further system evolution occurs
 
 ## Status
 🟢 Active – ongoing daily observations
