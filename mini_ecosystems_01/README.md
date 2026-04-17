@@ -132,7 +132,7 @@ System B (Leaf Input): Surface film is slightly more extended than A, but no vis
 System C (Biofilm Input): Showed the earliest and most extensive surface formation. A color shift (green → brown) suggests initial biological or chemical transformation, but no continued development was observed.
 System D (Thermal Water + Algae): Displays the most fragmented and heterogeneous surface structure. Material tends to cluster toward the center rather than forming a continuous film.
 
-##Interpretation
+## Interpretation
 The formation of a white/translucent surface layer across all systems suggests a common process, likely related to suspended organic matter or microbial structuring at the air–water interface.
 However:
 - No increase in turbidity
@@ -141,7 +141,7 @@ However:
 - No sustained expansion of surface structures
 This indicates that the surface structure formation does not necessarily correlate with active or sustained biological processes.
 
-##Emerging Hypothesis
+## Emerging Hypothesis
 All systems appear to be globally limited, potentially by:
 - nutrient availability
 - oxygen dynamics
