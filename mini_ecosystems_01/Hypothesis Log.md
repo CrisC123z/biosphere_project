@@ -1,5 +1,4 @@
 # 🧪 Hypothesis Log
-
 This document tracks the evolution of hypotheses throughout the experiment.
 Each entry reflects the current interpretation of system behavior based on observed data.
 
@@ -127,6 +126,93 @@ To:
 
 ---
 
+## 🔬 Interpretation
+
+### 1. Surface Film as a Shared Emergent Structure
+
+The appearance of a thin white/translucent surface layer in all systems (Day 4–6) suggests a **common underlying mechanism**, independent of initial biological input.
+
+This likely represents:
+
+* Accumulation of organic molecules at the air–water interface
+* Formation of a **microbial or physicochemical film**
+* Structuring driven by surface tension and gas exchange dynamics
+
+---
+
+### 2. Decoupling of “Activity” from Turbidity
+
+Despite expectations, no system showed increased turbidity or odor. This indicates:
+
+> Biological or chemical activity may be occurring **without bulk water change**
+
+Implication:
+
+* Processes are likely confined to:
+
+  * Surface interface
+  * Solid–water boundaries (bottom, particles, biofilm)
+
+---
+
+### 3. Evidence of Slow Biogeochemical Transformation
+
+Later-stage observations (Day 10+) show:
+
+* **Color shifts** (B, C) → possible oxidation or microbial succession
+* **Biofilm darkening** (C) → structural or metabolic transition
+* **Fragmentation and sinking** (D) → mechanical instability or density change
+
+These suggest:
+
+> The systems are evolving, but at a **low-energy, diffusion-limited rate**
+
+---
+
+### 4. System-Specific Pathways Within a Shared Constraint
+
+While all systems share global constraints, they diverge subtly:
+
+* **System A:** Baseline abiotic or minimal biological structuring
+* **System B:** Delayed transformation linked to organic substrate
+* **System C:** Continuous biofilm evolution (most biologically active)
+* **System D:** Physical restructuring and material redistribution
+
+---
+
+### 5. Limitation Regime Hypothesis
+
+All observations are consistent with a system operating under:
+
+* Low nutrient flux
+* Limited oxygen penetration
+* Reduced light-driven energy input
+
+This creates a regime where:
+
+* Rapid growth is suppressed
+* Structure forms early
+* Change occurs slowly and locally
+
+---
+
+### 6. Conceptual Model
+
+The systems appear to follow a two-phase dynamic:
+
+**Phase 1 (Day 0–6):**
+
+* Rapid surface structuring
+* Initial organization
+
+**Phase 2 (Day 7+):**
+
+* Slow transformation
+* Internal reorganization
+* No large-scale visible growth
+
+---
+
 ## 🔬 Hypothesis Evolution Summary
 
 | Version | Model Type    | Key Idea                           | Outcome       |
@@ -139,7 +225,7 @@ To:
 
 ## 📈 Future Entries Template
 
-```markdown
+```markdown id="1j0mpy"
 ## 📌 Entry XX — Title
 
 **Date:**  
@@ -167,10 +253,10 @@ To:
 
 ## 🧠 Notes
 
-* Surface film formation (Day 4–6) is a **consistent cross-system phenomenon**
-* Lack of turbidity ≠ lack of activity
-* Systems likely operate near a **low-energy equilibrium state**
-* Long-term observation is critical for detecting meaningful change
+* Surface film formation is a **robust and reproducible phenomenon**
+* Lack of visible change does not imply inactivity
+* Systems may be near a **low-energy equilibrium with slow drift**
+* Long-term observation is essential to capture meaningful dynamics
 
 ---
 
