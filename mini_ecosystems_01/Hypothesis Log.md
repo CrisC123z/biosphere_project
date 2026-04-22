@@ -1,70 +1,179 @@
-Entry 01
+# 🧪 Hypothesis Log – Mini Aquatic Ecosystems
 
-Date: 2026-04-04
-Version: Initial Hypothesis
+This document tracks the evolution of hypotheses throughout the experiment.
+Each entry reflects the current interpretation of system behavior based on observed data.
 
-Statement:
-Systems C and D will show earlier biological activity due to higher microbial load.
-System B will show gradual decomposition.
-System A will remain unchanged.
+---
 
-Basis:
+## 📌 Entry 01 — Initial Hypothesis
 
-Initial composition differences
-Expected microbial presence
+**Date:** 2026-04-04
+**Version:** H0
 
-Confidence Level: Medium
+### Statement
 
-Entry 02
+* System C and D will exhibit earlier biological activity due to higher microbial load.
+* System B will show gradual decomposition.
+* System A will remain unchanged.
 
-Date: 2026-04-10
-Version: Hypothesis 1V
+### Basis
 
-Statement:
-All systems are globally limited by nutrient availability, oxygen dynamics, or low energy input.
-Initial structures form (Day 4–6), but no further evolution occurs.
+* Differences in initial biological input
+* Expected microbial dynamics
 
-Basis:
+### Predictions
 
-Lack of turbidity increase
-No odor
-No visible decomposition
-Stable surface layers
+* Early turbidity increase in C and D
+* Visible decomposition in B
+* No structural change in A
 
-What Changed from Previous:
-Shift from “different behaviors” → “all systems constrained similarly”
+### Confidence
 
-Confidence Level: Medium
+🟡 Medium
 
-Entry 03
+### Status
 
-Date: 2026-04-16
-Version: Hypothesis 2V
+🔄 Under evaluation
 
-Statement:
-Systems are constrained, but not inactive.
-They undergo slow structural and compositional changes over time.
+---
 
-Basis:
+## 📌 Entry 02 — Constraint Hypothesis
 
-Color changes (B, C)
-Biofilm transformation (C)
-Fragmentation and sinking (D)
+**Date:** 2026-04-10
+**Version:** H1
 
-What Changed from Previous:
-From “no evolution” → “slow, low-intensity evolution”
+### Statement
 
-Confidence Level: Medium-High
+All systems are globally constrained by:
 
-Future Entries
+* Limited nutrient availability
+* Oxygen dynamics
+* Low energy input (light)
 
-Date:
-Version:
+Resulting in:
 
-Statement:
+> Initial structure formation (Day 4–6), followed by stagnation.
 
-Basis:
+### Basis
 
-What Changed from Previous:
+* No turbidity increase
+* No odor production
+* No visible decomposition
+* Stable surface films
 
-Confidence Level:
+### Predictions
+
+* Systems will remain visually stable over time
+* No significant biological amplification
+
+### Changes from Previous
+
+Shift from **system-specific behavior** → **global limitation model**
+
+### Confidence
+
+🟡 Medium
+
+### Status
+
+⚠️ Partially supported / under revision
+
+---
+
+## 📌 Entry 03 — Slow Dynamics Hypothesis
+
+**Date:** 2026-04-16
+**Version:** H2
+
+### Statement
+
+Systems are not inactive but operate under **low-intensity dynamics**, characterized by:
+
+* Slow structural transformation
+* Gradual compositional shifts
+* Internal redistribution of material
+
+### Basis
+
+* Color change in System B (yellow/brown surface layer)
+* Biofilm transformation in System C (green → brown)
+* Fragmentation and sinking in System D
+* Persistence of structure without turbidity increase
+
+### Predictions
+
+* Continued slow color changes
+* Increased fragmentation in D
+* Possible delayed turbidity (long-term)
+* No rapid ecosystem shifts
+
+### Changes from Previous
+
+From:
+
+> “No further evolution”
+
+To:
+
+> “Slow, continuous transformation”
+
+### Confidence
+
+🟢 Medium–High
+
+### Status
+
+✅ Currently supported
+
+---
+
+## 🔬 Hypothesis Evolution Summary
+
+| Version | Model Type    | Key Idea                           | Outcome       |
+| ------- | ------------- | ---------------------------------- | ------------- |
+| H0      | Differential  | Systems behave differently         | 🔄 Revised    |
+| H1      | Limitation    | Systems are constrained and static | ⚠️ Incomplete |
+| H2      | Slow Dynamics | Systems evolve slowly over time    | ✅ Active      |
+
+---
+
+## 📈 Future Entries Template
+
+```markdown
+## 📌 Entry XX — Title
+
+**Date:**  
+**Version:**  
+
+### Statement
+
+### Basis
+
+### Predictions
+
+### Changes from Previous
+
+### Confidence
+🟢 / 🟡 / 🔴  
+
+### Status
+✅ Supported  
+❌ Rejected  
+🔄 Modified  
+⚠️ Uncertain  
+```
+
+---
+
+## 🧠 Notes
+
+* Surface film formation (Day 4–6) is a **consistent cross-system phenomenon**
+* Lack of turbidity ≠ lack of activity
+* Systems likely operate near a **low-energy equilibrium state**
+* Long-term observation is critical for detecting meaningful change
+
+---
+
+## 📊 Status
+
+🟢 Active — ongoing daily observations
