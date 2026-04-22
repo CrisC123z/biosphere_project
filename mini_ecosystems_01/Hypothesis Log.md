@@ -109,13 +109,7 @@ Systems are not inactive but operate under **low-intensity dynamics**, character
 
 ### Changes from Previous
 
-From:
-
-> “No further evolution”
-
-To:
-
-> “Slow, continuous transformation”
+ “Slow, continuous transformation”
 
 ### Confidence
 
