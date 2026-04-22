@@ -179,8 +179,11 @@ These observations suggest that:
 
 ## Key Patterns
 System A (Control): Thin, stable surface layer with minimal change over time.
+
 System B (Leaf Input): Similar structure to A, but with a late-stage color shift in the surface layer, suggesting delayed transformation processes. No clear structural decomposition of the leaf observed.
+
 System C (Biofilm Input): Showed the earliest and most extensive surface formation. The original biofilm continues to change color (green → brown), indicating ongoing transformation, though surface structure remains relatively stable.
+
 System D (Thermal Water + Algae): Displays the most fragmented and heterogeneous structure. Surface material forms larger flakes and shows evidence of detachment and sinking, indicating internal redistribution of matter.
 
 ## Interpretation 
