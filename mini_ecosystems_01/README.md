@@ -195,28 +195,5 @@ However:
 - No sustained expansion of surface structures
 This indicates that the surface structure formation does not necessarily correlate with active or sustained biological processes.
 
-## Emerging Hypothesis 1V
-All systems appear to be globally limited, potentially by:
-- nutrient availability
-- oxygen dynamics
-- or insufficient energy input (light exposure)
-As a result, initial structure forms (Day 4–6), but no further system evolution occurs
-
-## Emerging Hypothesis 2V
-All systems appear to be constrained, potentially by:
-
-- limited nutrient availability
-- oxygen dynamics at the air–water interface
-- or low energy input (light conditions)
-  
-However, observations suggest that:
-
-> Instead of being inactive, the systems are undergoing slow structural and compositional changes, including color shifts and material redistribution.
-
-This indicates that:
-
-- Surface layer formation is rapid (Day 4–6)
-- Subsequent changes occur at a much slower rate (Day 10+)
-
 ## Status
 🟢 Active – ongoing daily observations
