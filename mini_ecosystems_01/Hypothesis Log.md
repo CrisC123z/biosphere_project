@@ -1,4 +1,4 @@
-# 🧪 Hypothesis Log – Mini Aquatic Ecosystems
+# 🧪 Hypothesis Log
 
 This document tracks the evolution of hypotheses throughout the experiment.
 Each entry reflects the current interpretation of system behavior based on observed data.
