@@ -1,4 +1,5 @@
 # 🧪 Hypothesis Log
+
 This document tracks the evolution of hypotheses throughout the experiment.
 Each entry reflects the current interpretation of system behavior based on observed data.
 
@@ -81,7 +82,7 @@ Shift from **system-specific behavior** → **global limitation model**
 
 ## 📌 Entry 03 — Slow Dynamics Hypothesis
 
-**Date:** 2026-04-16
+**Date:** 2026-04-20
 **Version:** H2
 
 ### Statement
@@ -157,7 +158,7 @@ Implication:
 
 ### 3. Evidence of Slow Biogeochemical Transformation
 
-Later-stage observations (Day 10+) show:
+Later-stage observations (Day 10+ and post Day 12 across an unobserved interval) show:
 
 * **Color shifts** (B, C) → possible oxidation or microbial succession
 * **Biofilm darkening** (C) → structural or metabolic transition
@@ -213,6 +214,20 @@ The systems appear to follow a two-phase dynamic:
 
 ---
 
+### 7. Data Limitations
+
+A gap in direct observation occurred between **Day 13 and Day 15 (2026-04-17 → 2026-04-19)**.
+
+Implications:
+
+* Exact timing of transitions is unknown
+* Observed changes may have occurred gradually or abruptly
+* Interpretations assume continuity but include temporal uncertainty
+
+This does not invalidate the observations, but reduces temporal resolution.
+
+---
+
 ## 🔬 Hypothesis Evolution Summary
 
 | Version | Model Type    | Key Idea                           | Outcome       |
@@ -225,7 +240,7 @@ The systems appear to follow a two-phase dynamic:
 
 ## 📈 Future Entries Template
 
-```markdown id="1j0mpy"
+```markdown
 ## 📌 Entry XX — Title
 
 **Date:**  
