@@ -141,8 +141,6 @@ No data was recorded during this period.
 Any changes observed on Day 16 (2026-04-20) reflect cumulative processes and cannot be resolved at daily resolution.
 
 ## Day 16 Observations (2026-04-20)
-
-
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -150,8 +148,50 @@ Any changes observed on Day 16 (2026-04-20) reflect cumulative processes and can
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning more brown | None | Biofilm darkening |
 | D| Transparent | Clear| Fragmented layer (larger flakes/islands) | Particles | None  | - | None | Increased fragmentation|
 
-## Day 17 Observations
-TODAY
+## Day 17 Observations (2026-04-21)
+
+| System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
+|--------|-------|-----------|---------|--------|-------|----------|------|-------|
+| A | Transparent | Clear | Thin white/translucent layer | - | Thin white/translucent ring (~<0.1 cm) | - | None | Wall ring visible (possible condensation or mineral deposit) |
+| B | Transparent | Clear | Thin white/translucent layer | Settled | Thin white/translucent ring (~0.1 cm) | Leaf intact | None | Fuzzy growth around leaf edges; small floating particles visible under backlight (possibly disturbance-related) |
+| C | Transparent | Clear | Continuous thin particulate surface layer | Settled | Thin white/translucent ring (~0.1 cm) + lower particles | Biofilm intact (darkening) | None | Surface fully covered; material detaching and sinking; particles visible on wall under movement |
+| D | Transparent | Clear | Fragmented surface layer | Particles | More pronounced white ring (~0.3 cm) | - | None | Stronger wall deposition; ring more visible and thicker |
+
+---
+
+### Additional Observations
+
+- No odor detected in any system  
+- A **transparent/white ring** is visible on container walls across all systems  
+- Ring characteristics vary by system:
+  - **A:** very thin (<0.1 cm)  
+  - **B & C:** ~0.1 cm  
+  - **D:** thicker (~0.3 cm) and more visible  
+
+- In **System C**, additional particles are visible:
+  - Along the wall when water is tilted  
+  - Suspended near the surface and mid-water  
+
+- In **System B**, localized **fuzzy structures** appear around leaf edges  
+
+- Some observed particles may be influenced by **movement during observation**
+
+---
+### Preliminary Interpretation (Day 17)
+
+- The wall ring may indicate:
+  - Condensation-related deposition  
+  - Mineral precipitation  
+  - Or biofilm formation at the air–water interface  
+
+- Increased visibility in **System D** suggests:
+  > Higher mineral content or enhanced deposition dynamics
+
+- Fuzzy structures in **System B** may represent:
+  > Early-stage localized microbial growth associated with organic substrate
+
+- Particle detachment in **System C** reinforces:
+  > Ongoing internal restructuring and material cycling
 
 ## Preliminary Observations
 Surface films appeared across all systems starting on Day 4. While early development (Day 4–6) appeared relatively stable, later observations (Day 15–16) show slow but consistent changes:
