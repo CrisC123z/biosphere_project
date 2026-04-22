@@ -131,11 +131,17 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown | None | Brown Biofilm |
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
 
+## Day 13–15 Observations (2026-04-17 → 2026-04-19)
+
+**Status:** No direct observations  
+**Reason:** Observer absent  
+
+**Notes:**  
+No data was recorded during this period.  
+Any changes observed on Day 16 (2026-04-20) reflect cumulative processes and cannot be resolved at daily resolution.
+
 ## Day 16 Observations (2026-04-20)
 
-**Note:**  
-Observations resume after a 3-day gap (Day 13–15).  
-Changes observed reflect cumulative processes over this period, not daily progression.
 
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
@@ -175,6 +181,17 @@ However:
 - No visible decomposition (System B)
 - No sustained expansion of surface structures
 This indicates that the surface structure formation does not necessarily correlate with active or sustained biological processes.
+
+### Data Limitations
+
+A gap in direct observation occurred between Day 13 and Day 15.
+
+Implications:
+- Exact timing of transitions is unknown  
+- Changes may have occurred gradually or abruptly  
+- Interpretations assume continuity but include temporal uncertainty  
+
+This does not invalidate the observations, but reduces temporal resolution.
 
 ## Status
 🟢 Active – ongoing daily observations
