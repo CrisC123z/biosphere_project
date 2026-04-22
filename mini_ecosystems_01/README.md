@@ -24,7 +24,7 @@ D – Thermal water + algae
 - Indirect light conditions
 
 
-## Day 0 Observations 4/4/2026
+## Day 0 Observations (2026-04-04)
 Initial conditions show no visible biological activity.
 
 | System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
@@ -34,7 +34,7 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | None | Settled | None | Biofilm intact | None | - |
 | D | Transparent | Clear | None | Particles | None | - | None | - |
 
-## Day 1 Observations
+## Day 1 Observations (2026-04-05)
 | System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
 |--------|-------|-----------|---------|--------|-------|----------|------|-------|
 | A | Transparent | Clear | None | - | None | - | None | Condensation |
@@ -42,7 +42,7 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
 | D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
-## Day 2 Observations
+## Day 2 Observations (2026-04-06)
 | System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
 |--------|-------|-----------|---------|--------|-------|----------|------|-------|
 | A | Transparent | Clear | None | - | None | - | None | Condensation |
@@ -50,7 +50,7 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
 | D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
-## Day 3 Observations
+## Day 3 Observations (2026-04-07)
 | System | Color | Turbidity | Surface | Bottom | Walls | Material | Odor | Notes |
 |--------|-------|-----------|---------|--------|-------|----------|------|-------|
 | A | Transparent | Clear | None | - | None | - | None | Condensation |
@@ -58,7 +58,7 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | None | Settled | None | Biofilm intact | None | Condensation |
 | D | Transparent | Clear | None | Particles | None | - | None | Condensation |
 
-## Day 4 Observations
+## Day 4 Observations (2026-04-08)
 | System | Color | Turbidity | Surface | Bottom | Walls | Material| Odor | Notes|
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent | Clear | Thin white/translucent layer | - | None  | - | None | Surface film observed |
@@ -66,7 +66,7 @@ Initial conditions show no visible biological activity.
 | C | Transparent | Clear | Larger white/translucent layer | Settled   | None  | Biofilm intact | None | Greater surface coverage |
 | D | Transparent | Clear | Larger white/translucent layer | Particles | None  | - | None | Similar to C |
 
-## Day 5 Observations
+## Day 5 Observations (2026-04-09)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -74,7 +74,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | More visible on dark background |
 
-## Day 6 Observations
+## Day 6 Observations (2026-04-10)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -82,7 +82,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | No significant change|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | More visible on dark background |
 
-## Day 7 Observations
+## Day 7 Observations (2026-04-11)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -90,7 +90,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm intact | None | Brown Biofilm|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | No significant change |
 
-## Day 8 Observations
+## Day 8 Observations (2026-04-12)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -98,7 +98,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Green Biofilm intact | None | Biofilm turns from green to brown|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | No significant change |
 
-## Day 9 Observations
+## Day 9 Observations (2026-04-13)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -107,7 +107,7 @@ Initial conditions show no visible biological activity.
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
 
 
-## Day 10 Observations
+## Day 10 Observations (2026-04-14)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -115,7 +115,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown| None | Brown Biofilm |
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
 
-## Day 11 Observations
+## Day 11 Observations (2026-04-15)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -123,7 +123,7 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown | None | Brown Biofilm|
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
 
-## Day 12 Observations
+## Day 12 Observations (2026-04-16)
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -131,31 +131,12 @@ Initial conditions show no visible biological activity.
 | C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown | None | Brown Biofilm |
 | D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
 
-## Day 13 Observations
-| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
-|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
-| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
-| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
-| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown | None | Brown Biofilm |
-| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
+## Day 16 Observations (2026-04-20)
 
-## Day 14 Observations
-| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
-|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
-| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
-| B| Transparent| Clear     | Thin white/translucent layer   | Settled   | None  | Leaf intact    | None | No significant change |
-| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning brown | None | No significant change|
-| D| Transparent | Clear| Larger white/translucent layer (More visible) | Particles | None  | - | None | Superfice fragment, and more concentrated|
+**Note:**  
+Observations resume after a 3-day gap (Day 13–15).  
+Changes observed reflect cumulative processes over this period, not daily progression.
 
-## Day 15 Observations
-| System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
-|--------|-------|-----------|-----------|--------|-------|----------|------|-------|
-| A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
-| B| Transparent| Clear     | Thin translucent layer (yellow/light brown)   | Settled   | None  | Leaf intact    | None | Surface layer color change|
-| C| Transparent| Clear| Larger white/translucent layer | Settled   | None  | Biofilm turning more brown | None | Biofilm darkening |
-| D| Transparent | Clear| Fragmented layer (larger flakes/islands) | Particles | None  | - | None | Increased fragmentation|
-
-## Day 16 Observations
 | System | Color            | Turbidity | Surface                        | Bottom    | Walls | Material       | Odor | Notes |
 |--------|-------|-----------|-----------|--------|-------|----------|------|-------|
 | A | Transparent| Clear     | Thin white/translucent layer   | -  | None  | -  | None | No significant change |
@@ -164,7 +145,7 @@ Initial conditions show no visible biological activity.
 | D| Transparent | Clear| Fragmented layer (larger flakes/islands) | Particles | None  | - | None | Increased fragmentation|
 
 ## Day 17 Observations
-
+TODAY
 
 ## Preliminary Observations
 Surface films appeared across all systems starting on Day 4. While early development (Day 4–6) appeared relatively stable, later observations (Day 15–16) show slow but consistent changes:
